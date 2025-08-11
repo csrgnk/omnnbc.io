@@ -1,0 +1,11 @@
+<div class="post-box">
+  <h2>Post Title 1</h2>
+  <p>Excerpt or short description of the post...</p>
+  
+  <div class="share-buttons">
+    <span>Share:</span>
+    <a href="#" onclick="shareFacebook(event)">Facebook</a> |
+    <a href="#" onclick="shareTwitter(event)">Twitter</a> |
+    <a href="#" onclick="shareWhatsApp(event)">WhatsApp</a>
+  </div>
+</div>
